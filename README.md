@@ -9,6 +9,6 @@
 - SCSS
 - Java Script
 
-<img width="675" src="https://raw.githubusercontent.com/ArnasLuksas/Image-Slider-JavaScript-Project/main/img/IMG_6108.jpg">
+<img width="1675" src="https://raw.githubusercontent.com/ArnasLuksas/Image-Slider-JavaScript-Project/main/img/IMG_6108.jpg">
 
 
